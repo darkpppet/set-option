@@ -1,9 +1,9 @@
 /build
 /node_modules
 *.test.tsx
-react-app.env.d.ts
-reportWevVitals.ts
-setupTests.ts
+/src/react-app.env.d.ts
+/src/reportWevVitals.ts
+/src/setupTests.ts
 package-lock.json
 package.json
 tsconfig.json

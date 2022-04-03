@@ -1,8 +1,7 @@
 /build
 /node_modules
 *.test.tsx
-/src/react-app.env.d.ts
-/src/reportWevVitals.ts
+/src/reportWebVitals.ts
 /src/setupTests.ts
 package-lock.json
 package.json

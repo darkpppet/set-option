@@ -30,63 +30,63 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Cap.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Cap.webp",
         "name": "메이플 트레져 캡",
         "partsType": "모자",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Outfit.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Outfit.webp",
         "name": "메이플 트레져 슈트",
         "partsType": "상의",
         "setName": "메이플 트레져 세트",
         "isOverall": true
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Shoes.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Shoes.webp",
         "name": "메이플 트레져 슈즈",
         "partsType": "신발",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Cape.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Cape.webp",
         "name": "메이플 트레져 망토",
         "partsType": "망토",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Shoulder.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Shoulder.webp",
         "name": "메이플 트레져 견장",
         "partsType": "어깨장식",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Accessory.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Accessory.webp",
         "name": "메이플 트레져 버블",
         "partsType": "얼굴장식",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Pendant_(KMS_12th_Anniversary).webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Pendant_(KMS_12th_Anniversary).webp",
         "name": "메이플 트레져 펜던트",
         "partsType": "펜던트",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Gloves.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Gloves.webp",
         "name": "메이플 트레져 장갑",
         "partsType": "장갑",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Belt.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Belt.webp",
         "name": "메이플 트레져 벨트",
         "partsType": "벨트",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_(KMS_12th_Anniversary).webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_(KMS_12th_Anniversary).webp",
         "name": "메이플 트레져",
         "partsType": "훈장",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Axe.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Axe.webp",
         "name": "메이플 트레져 무기",
         "partsType": "무기",
         "setName": "메이플 트레져 세트"
     }, {
-        "imgSrc": "/images/mapleTreasure/Eqp_Maple_Treasure_Force_Shield.webp",
+        "imgSrc": "./images/mapleTreasure/Eqp_Maple_Treasure_Force_Shield.webp",
         "name": "메이플 트레져 보조무기",
         "partsType": "보조무기",
         "setName": "메이플 트레져 세트"

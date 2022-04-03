@@ -1,90 +1,90 @@
 [{
-    "imgSrc": "/images/noset/Eqp_Cygnus_Kohinoor_Ring.webp",
+    "imgSrc": "./images/noset/Eqp_Cygnus_Kohinoor_Ring.webp",
     "name": "세트효과가 없는 반지",
     "partsType": "반지"
 }, {
-    "imgSrc": "/images/noset/Eqp_Aquarius_Crown.webp",
+    "imgSrc": "./images/noset/Eqp_Aquarius_Crown.webp",
     "name": "세트효과가 없는 모자",
     "partsType": "모자"
 }, {
-    "imgSrc": "/images/noset/Eqp_Tower_of_Oz_Legend_Emblem.webp",
+    "imgSrc": "./images/noset/Eqp_Tower_of_Oz_Legend_Emblem.webp",
     "name": "세트효과가 없는 엠블렘",
     "partsType": "엠블렘"
 }, {
-    "imgSrc": "/images/noset/Eqp_Purple_Bear_Pendant.webp",
+    "imgSrc": "./images/noset/Eqp_Purple_Bear_Pendant.webp",
     "name": "세트효과가 없는 펜던트",
     "partsType": "펜던트"
 }, {
-    "imgSrc": "/images/noset/Eqp_Shiny_Red_Symbol.webp",
+    "imgSrc": "./images/noset/Eqp_Shiny_Red_Symbol.webp",
     "name": "세트효과가 없는 얼굴장식",
     "partsType": "얼굴장식"
 }, {
-    "imgSrc": "/images/noset/Eqp_Spiegelmanns_Gold_Badge.webp",
+    "imgSrc": "./images/noset/Eqp_Spiegelmanns_Gold_Badge.webp",
     "name": "세트효과가 없는 뱃지",
     "partsType": "뱃지"
 }, {
-    "imgSrc": "/images/noset/Eqp_Michaelas_Glasses.webp",
+    "imgSrc": "./images/noset/Eqp_Michaelas_Glasses.webp",
     "name": "세트효과가 없는 눈장식",
     "partsType": "눈장식"
 }, {
-    "imgSrc": "/images/noset/Eqp_Ocean_Glow_Earrings.webp",
+    "imgSrc": "./images/noset/Eqp_Ocean_Glow_Earrings.webp",
     "name": "세트효과가 없는 귀고리",
     "partsType": "귀고리"
 }, {
-    "imgSrc": "/images/noset/Eqp_Chaos_Vellum_Crusher.webp",
+    "imgSrc": "./images/noset/Eqp_Chaos_Vellum_Crusher.webp",
     "name": "세트효과가 없는 훈장",
     "partsType": "훈장"
 }, {
-    "imgSrc": "/images/noset/Eqp_Zakums_Poisonic_Axe.webp",
+    "imgSrc": "./images/noset/Eqp_Zakums_Poisonic_Axe.webp",
     "name": "세트효과가 없는 무기",
     "partsType": "무기"
 }, {
-    "imgSrc": "/images/noset/Eqp_Black_Neos.webp",
+    "imgSrc": "./images/noset/Eqp_Black_Neos.webp",
     "name": "세트효과가 없는 상의",
     "partsType": "상의"
 }, {
-    "imgSrc": "/images/noset/Eqp_Blue_Sauna_Robe.webp",
+    "imgSrc": "./images/noset/Eqp_Blue_Sauna_Robe.webp",
     "name": "세트효과가 없는 한벌옷",
     "partsType": "상의",
     "isOverall": true
 }, {
-    "imgSrc": "/images/noset/Eqp_Grand_Pauldron.webp",
+    "imgSrc": "./images/noset/Eqp_Grand_Pauldron.webp",
     "name": "세트효과가 없는 어깨장식",
     "partsType": "어깨장식"
 }, {
-    "imgSrc": "/images/noset/Eqp_Ruin_Force_Shield.webp",
+    "imgSrc": "./images/noset/Eqp_Ruin_Force_Shield.webp",
     "name": "세트효과가 없는 보조무기",
     "partsType": "보조무기"
 }, {
-    "imgSrc": "/images/noset/Eqp_Jadeite_Charm.webp",
+    "imgSrc": "./images/noset/Eqp_Jadeite_Charm.webp",
     "name": "세트효과가 없는 포켓 아이템",
     "partsType": "포켓 아이템"
 }, {
-    "imgSrc": "/images/noset/Eqp_Tyrant_Hyades_Belt.webp",
+    "imgSrc": "./images/noset/Eqp_Tyrant_Hyades_Belt.webp",
     "name": "세트효과가 없는 벨트",
     "partsType": "벨트"
 }, {
-    "imgSrc": "/images/noset/Eqp_Black_Neos_Pants.webp",
+    "imgSrc": "./images/noset/Eqp_Black_Neos_Pants.webp",
     "name": "세트효과가 없는 하의",
     "partsType": "하의"
 }, {
-    "imgSrc": "/images/noset/Eqp_Tyrant_Hyades_Gloves.webp",
+    "imgSrc": "./images/noset/Eqp_Tyrant_Hyades_Gloves.webp",
     "name": "세트효과가 없는 장갑",
     "partsType": "장갑"
 }, {
-    "imgSrc": "/images/noset/Eqp_Tyrant_Hyades_Cloak.webp",
+    "imgSrc": "./images/noset/Eqp_Tyrant_Hyades_Cloak.webp",
     "name": "세트효과가 없는 망토",
     "partsType": "망토"
 }, {
-    "imgSrc": "/images/noset/Eqp_Tyrant_Hyades_Boots.webp",
+    "imgSrc": "./images/noset/Eqp_Tyrant_Hyades_Boots.webp",
     "name": "세트효과가 없는 신발",
     "partsType": "신발"
 }, {
-    "imgSrc": "/images/noset/Eqp_Damienroid.webp",
+    "imgSrc": "./images/noset/Eqp_Damienroid.webp",
     "name": "세트효과가 없는 안드로이드",
     "partsType": "안드로이드"
 }, {
-    "imgSrc": "/images/noset/Eqp_Liquid-Metal_Heart.webp",
+    "imgSrc": "./images/noset/Eqp_Liquid-Metal_Heart.webp",
     "name": "세트효과가 없는 기계심장",
     "partsType": "기계심장"
 }]

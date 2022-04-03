@@ -14,22 +14,22 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/rootAbyss/Eqp_Royal_Warrior_Helm.webp",
+        "imgSrc": "./images/rootAbyss/Eqp_Royal_Warrior_Helm.webp",
         "name": "하이네스 모자",
         "partsType": "모자",
         "setName": "루타비스 세트"
     }, {
-        "imgSrc": "/images/rootAbyss/Eqp_Eagle_Eye_Warrior_Armor.webp",
+        "imgSrc": "./images/rootAbyss/Eqp_Eagle_Eye_Warrior_Armor.webp",
         "name": "이글아이 상의",
         "partsType": "상의",
         "setName": "루타비스 세트"
     }, {
-        "imgSrc": "/images/rootAbyss/Eqp_Trixter_Warrior_Pants.webp",
+        "imgSrc": "./images/rootAbyss/Eqp_Trixter_Warrior_Pants.webp",
         "name": "트릭스터 팬츠",
         "partsType": "하의",
         "setName": "루타비스 세트"
     }, {
-        "imgSrc": "/images/rootAbyss/Eqp_Fafnir_Twin_Cleaver.webp",
+        "imgSrc": "./images/rootAbyss/Eqp_Fafnir_Twin_Cleaver.webp",
         "name": "파프니르 무기",
         "partsType": "무기",
         "setName": "루타비스 세트"

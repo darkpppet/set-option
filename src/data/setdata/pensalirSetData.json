@@ -26,33 +26,33 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/8th/Eqp_Pensalir_Battle_Helm.webp",
+        "imgSrc": "./images/8th/Eqp_Pensalir_Battle_Helm.webp",
         "name": "펜살리르 모자",
         "partsType": "모자",
         "setName": "8th 세트"
     }, {
-        "imgSrc": "/images/8th/Eqp_Pensalir_Battle_Mail.webp",
+        "imgSrc": "./images/8th/Eqp_Pensalir_Battle_Mail.webp",
         "name": "펜살리르 한벌옷",
         "partsType": "상의",
         "setName": "8th 세트",
         "isOverall": true
     }, {
-        "imgSrc": "/images/8th/Eqp_Pensalir_Battle_Boots.webp",
+        "imgSrc": "./images/8th/Eqp_Pensalir_Battle_Boots.webp",
         "name": "펜살리르 부츠",
         "setName": "8th 세트",
         "partsType": "신발"
     }, {
-        "imgSrc": "/images/8th/Eqp_Pensalir_Battle_Gloves.webp",
+        "imgSrc": "./images/8th/Eqp_Pensalir_Battle_Gloves.webp",
         "name": "펜살리르 글러브",
         "setName": "8th 세트",
         "partsType": "장갑"
     }, {
-        "imgSrc": "/images/8th/Eqp_Pensalir_Battle_Cape.webp",
+        "imgSrc": "./images/8th/Eqp_Pensalir_Battle_Cape.webp",
         "name": "펜살리르 케이프",
         "setName": "8th 세트",
         "partsType": "망토"
     }, {
-        "imgSrc": "/images/8th/Eqp_Utgard_Axe.webp",
+        "imgSrc": "./images/8th/Eqp_Utgard_Axe.webp",
         "name": "우트가르드 무기",
         "setName": "8th 세트",
         "partsType": "무기"

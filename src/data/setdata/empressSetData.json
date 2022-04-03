@@ -25,38 +25,38 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Helm.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Helm.webp",
         "name": "여제 모자",
         "partsType": "모자",
         "setName": "여제 세트"
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Mail.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Mail.webp",
         "name": "여제 한벌옷",
         "partsType": "상의",
         "setName": "여제 세트",
         "isOverall": true
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Boots.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Boots.webp",
         "name": "여제 신발",
         "partsType": "신발",
         "setName": "여제 세트"
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Bracers.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Bracers.webp",
         "name": "여제 장갑",
         "partsType": "장갑",
         "setName": "여제 세트"
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Cape.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Cape.webp",
         "name": "여제 케이프",
         "partsType": "망토",
         "setName": "여제 세트"
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Battle_Shoulder.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Shoulder.webp",
         "name": "여제 숄더",
         "partsType": "어깨장식",
         "setName": "여제 세트"
     }, {
-        "imgSrc": "/images/empress/Eqp_Lionheart_Champion_Axe.webp",
+        "imgSrc": "./images/empress/Eqp_Lionheart_Champion_Axe.webp",
         "name": "여제 무기",
         "partsType": "무기",
         "setName": "여제 세트"

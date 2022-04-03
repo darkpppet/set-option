@@ -30,38 +30,38 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Helm.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Helm.webp",
         "name": "앱솔랩스 모자",
         "partsType": "모자",
         "setName": "앱솔랩스 세트"
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Suit.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Suit.webp",
         "name": "앱솔랩스 슈트",
         "partsType": "상의",
         "setName": "앱솔랩스 세트",
         "isOverall": true
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Shoes.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Shoes.webp",
         "name": "앱솔랩스 슈즈",
         "partsType": "신발",
         "setName": "앱솔랩스 세트"
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Gloves.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Gloves.webp",
         "name": "앱솔랩스 글러브",
         "partsType": "장갑",
         "setName": "앱솔랩스 세트"
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Cape.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Cape.webp",
         "name": "앱솔랩스 케이프",
         "partsType": "망토",
         "setName": "앱솔랩스 세트"
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Knight_Shoulder.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Knight_Shoulder.webp",
         "name": "앱솔랩스 숄더",
         "partsType": "어깨장식",
         "setName": "앱솔랩스 세트"
     }, {
-        "imgSrc": "/images/absolabs/Eqp_AbsoLab_Axe.webp",
+        "imgSrc": "./images/absolabs/Eqp_AbsoLab_Axe.webp",
         "name": "앱솔랩스 무기",
         "partsType": "무기",
         "setName": "앱솔랩스 세트"

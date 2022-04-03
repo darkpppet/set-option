@@ -19,28 +19,28 @@
         }
     },
     "items": [{
-        "imgSrc": "/images/necro/Eqp_Necromancer_Warrior_Hat.webp",
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Hat.webp",
         "name": "네크로 햇",
         "partsType": "모자",
         "setName": "네크로 세트"
     }, {
-        "imgSrc": "/images/necro/Eqp_Necromancer_Warrior_Suit.webp",
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Suit.webp",
         "name": "네크로 슈트",
         "partsType": "상의",
         "setName": "네크로 세트",
         "isOverall": true
     }, {
-        "imgSrc": "/images/necro/Eqp_Necromancer_Warrior_Shoes.webp",
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Shoes.webp",
         "name": "네크로 슈즈",
         "partsType": "신발",
         "setName": "네크로 세트"
     }, {
-        "imgSrc": "/images/necro/Eqp_Necromancer_Warrior_Gloves.webp",
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Gloves.webp",
         "name": "네크로 글러브",
         "partsType": "장갑",
         "setName": "네크로 세트"
     }, {
-        "imgSrc": "/images/necro/Eqp_Necro_Headsplitter.webp",
+        "imgSrc": "./images/necro/Eqp_Necro_Headsplitter.webp",
         "name": "네크로 무기",
         "partsType": "무기",
         "setName": "네크로 세트"

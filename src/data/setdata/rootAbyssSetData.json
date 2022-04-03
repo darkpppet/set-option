@@ -1,0 +1,37 @@
+{
+    "name": "루타비스 세트",
+    "option": {
+        "2": {
+            "주스탯 / 부스탯": 20,
+            "최대 HP / 최대 MP": 1000
+        },
+        "3": {
+            "최대 HP% / 최대 MP%": 10,
+            "공격력": 50
+        },
+        "4": {
+            "보스 몬스터 공격 시 데미지": 30
+        }
+    },
+    "items": [{
+        "imgSrc": "/images/rootAbyss/Eqp_Royal_Warrior_Helm.webp",
+        "name": "하이네스 모자",
+        "partsType": "모자",
+        "setName": "루타비스 세트"
+    }, {
+        "imgSrc": "/images/rootAbyss/Eqp_Eagle_Eye_Warrior_Armor.webp",
+        "name": "이글아이 상의",
+        "partsType": "상의",
+        "setName": "루타비스 세트"
+    }, {
+        "imgSrc": "/images/rootAbyss/Eqp_Trixter_Warrior_Pants.webp",
+        "name": "트릭스터 팬츠",
+        "partsType": "하의",
+        "setName": "루타비스 세트"
+    }, {
+        "imgSrc": "/images/rootAbyss/Eqp_Fafnir_Twin_Cleaver.webp",
+        "name": "파프니르 무기",
+        "partsType": "무기",
+        "setName": "루타비스 세트"
+    }]
+}

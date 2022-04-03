@@ -1,0 +1,69 @@
+{
+    "name": "아케인셰이드 세트",
+    "option": {
+        "2": {
+            "공격력 / 마력": 30,
+            "보스 몬스터 공격 시 데미지": 10
+        },
+        "3": {
+            "공격력 / 마력": 30,
+            "방어력": 400,
+            "몬스터 방어율 무시": 10
+        },
+        "4": {
+            "올스탯": 50,
+            "공격력 / 마력": 35,
+            "보스 몬스터 공격 시 데미지": 10
+        },
+        "5": {
+            "최대 HP / 최대 MP": 2000,
+            "공격력 / 마력": 40,
+            "보스 몬스터 공격 시 데미지": 10
+        },
+        "6": {
+            "최대 HP% / 최대 MP%": 30,
+            "공격력 / 마력": 30
+        },
+        "7": {
+            "공격력 / 마력": 30,
+            "몬스터 방어율 무시": 10
+        }
+    },
+    "items": [{
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Hat.webp",
+        "name": "아케인셰이드 햇",
+        "partsType": "모자",
+        "setName": "아케인셰이드 세트"
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Suit.webp",
+        "name": "아케인셰이드 슈트",
+        "partsType": "상의",
+        "setName": "아케인셰이드 세트",
+        "isOverall": true
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Shoes.webp",
+        "name": "아케인셰이드 슈즈",
+        "partsType": "신발",
+        "setName": "아케인셰이드 세트"
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Gloves.webp",
+        "name": "아케인셰이드 글러브",
+        "partsType": "장갑",
+        "setName": "아케인셰이드 세트"
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Cape.webp",
+        "name": "아케인셰이드 케이프",
+        "partsType": "망토",
+        "setName": "아케인셰이드 세트"
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Shoulder.webp",
+        "name": "아케인셰이드 숄더",
+        "partsType": "어깨장식",
+        "setName": "아케인셰이드 세트"
+    }, {
+        "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Axe.webp",
+        "name": "아케인셰이드 무기",
+        "partsType": "무기",
+        "setName": "아케인셰이드 세트"
+    }]
+}

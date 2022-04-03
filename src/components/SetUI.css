@@ -1,0 +1,43 @@
+.set-container {
+    width: 290px;
+    margin: 15px;
+    border: 3px double White;
+    border-radius: 10px;
+    background-color: #222222;
+    font-size: 13px;
+    color: #CCFF00;
+    text-align: left;
+}
+
+.set-container p {
+    margin: 0px;
+}
+
+.set-inner-container {
+    margin: 10px;
+}
+
+.set-name {
+    margin: 5px;
+    text-align: center;
+}
+
+.parts-type {
+    float: right;
+}
+
+.how-much-set-effect {
+    margin: 3px 0px;
+}
+
+.lucky-aplied-set {
+    color: Orange;
+}
+
+.aplied-set {
+    color: White;
+}
+
+.not-aplied-set {
+    color: Gray;
+}

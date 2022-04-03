@@ -1,0 +1,130 @@
+{
+    "name": "보스 장신구 세트",
+    "option": {
+        "3": {
+            "올스탯": 10,
+            "최대 HP% / 최대 MP%": 5,
+            "공격력 / 마력": 5
+        },
+        "5": {
+            "올스탯": 10,
+            "최대 HP% / 최대 MP%": 5,
+            "공격력 / 마력": 5
+        },
+        "7": {
+            "올스탯": 10,
+            "공격력 / 마력": 10,
+            "방어력": 80,
+            "몬스터 방어율 무시": 10
+        },
+        "9": {
+            "올스탯": 15,
+            "공격력 / 마력": 10,
+            "방어력": 100,
+            "보스 몬스터 공격 시 데미지": 10
+        }
+    },
+    "items": [{
+        "imgSrc": "/images/bossAccessory/Eqp_Condensed_Power_Crystal.webp",
+        "name": "응축된 힘의 결정석",
+        "partsType": "얼굴장식",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Papulatus_Mark.webp",
+        "name": "파풀라투스 마크",
+        "partsType": "눈장식",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Black_Bean_Mark.webp",
+        "name": "블랙빈 마크",
+        "partsType": "눈장식",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Aquatic_Letter_Eye_Accessory.webp",
+        "name": "아쿠아틱 레터 눈장식",
+        "partsType": "눈장식",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Will_o_the_Wisps.webp",
+        "name": "지옥의 불꽃",
+        "partsType": "귀고리",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Dea_Sidus_Earring.webp",
+        "name": "데아 시두스 이어링",
+        "partsType": "귀고리",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Guardian_Angel_Ring.webp",
+        "name": "가디언 엔젤 링",
+        "partsType": "반지",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Noble_Ifias_Ring.webp",
+        "name": "고귀한 이피아의 반지",
+        "partsType": "반지",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Silver_Blossom_Ring.webp",
+        "name": "실버블라썸 링",
+        "partsType": "반지",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Dominator_Pendant.webp",
+        "name": "도미네이터 펜던트",
+        "partsType": "펜던트",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Mechanator_Pendant.webp",
+        "name": "메커네이터 펜던트",
+        "partsType": "펜던트",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Chaos_Horntail_Necklace.webp",
+        "name": "카오스 혼테일의 목걸이",
+        "partsType": "펜던트",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Horntail_Necklace.webp",
+        "name": "혼테일의 목걸이",
+        "partsType": "펜던트",
+        "setName": "보스 장신구 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Enraged_Zakum_Belt.webp",
+        "name": "분노한 자쿰의 벨트",
+        "partsType": "벨트",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Golden_Clover_Belt.webp",
+        "name": "골든 클로버 벨트",
+        "partsType": "벨트",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Royal_Black_Metal_Shoulder.webp",
+        "name": "로얄 블랙메탈 숄더",
+        "partsType": "어깨장식",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Pink_Holy_Cup.webp",
+        "name": "핑크빛 성배",
+        "partsType": "포켓 아이템",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Stone_of_Eternal_Life.webp",
+        "name": "영생의 돌",
+        "partsType": "포켓 아이템",
+        "setName": "보스 장신구 세트"
+    }, {
+        "imgSrc": "/images/bossAccessory/Eqp_Crystal_Ventus_Badge.webp",
+        "name": "크리스탈 웬투스 뱃지",
+        "partsType": "뱃지",
+        "setName": "보스 장신구 세트"
+    }]
+}

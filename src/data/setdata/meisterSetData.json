@@ -1,0 +1,36 @@
+{
+    "name": "마이스터 세트",
+    "option": {
+        "2": {
+            "최대 HP% / 최대 MP%": 10
+        },
+        "3": {
+            "공격력 / 마력": 40
+        },
+        "4": {
+            "보스 몬스터 공격 시 데미지": 20
+        }
+    },
+    "items": [{
+        "imgSrc": "/images/meister/Eqp_Meister_Earring.webp",
+        "name": "마이스터 이어링",
+        "partsType": "귀고리",
+        "setName": "마이스터 세트"
+    }, {
+        "imgSrc": "/images/meister/Eqp_Meister_Ring.webp",
+        "name": "마이스터링",
+        "partsType": "반지",
+        "setName": "마이스터 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "/images/meister/Eqp_Lionheart_Battle_Shoulder.webp",
+        "name": "마이스터 숄더",
+        "partsType": "어깨장식",
+        "setName": "마이스터 세트"
+    }, {
+        "imgSrc": "/images/meister/Eqp_Meister_War_Cleaver.webp",
+        "name": "마이스터 무기",
+        "partsType": "무기",
+        "setName": "마이스터 세트"
+    }]
+}

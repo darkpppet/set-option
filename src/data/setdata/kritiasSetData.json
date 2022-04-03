@@ -1,0 +1,25 @@
+{
+    "name": "크리티아스 세트",
+    "option": {
+        "3": {
+            "공격력 / 마력": 20,
+            "보스 몬스터 공격 시 데미지": 20
+        }
+    },
+    "items": [{
+        "imgSrc": "/images/kritias/Eqp_Inverse_Jewel_Earring.webp",
+        "name": "인버스 쥬얼 이어링",
+        "partsType": "귀고리",
+        "setName": "크리티아스 세트"
+    }, {
+        "imgSrc": "/images/kritias/Eqp_Inverse_Metal_Shoulder.webp",
+        "name": "인버스 메탈 숄더",
+        "partsType": "어깨장식",
+        "setName": "크리티아스 세트"
+    }, {
+        "imgSrc": "/images/kritias/Eqp_Inverse_Codex.webp",
+        "name": "인버스 코덱스",
+        "partsType": "포켓 아이템",
+        "setName": "크리티아스 세트"
+    }]
+}

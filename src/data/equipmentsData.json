@@ -1,0 +1,135 @@
+[[{
+    "imgSrc": "/images/darkBoss/Eqp_Endless_Terror.webp",
+    "name": "거대한 공포",
+    "partsType": "반지",
+    "setName": "칠흑의 보스 세트",
+    "isOnlyOneEquipped": true
+}, {
+}, {
+    "imgSrc": "https://w.namu.la/s/2765db2fdc7deee7882c42ac4b98089562824afb5ca52788a7be51f49f4ad5056af0961e3b3e803e45abeb58bdf8cf1944318f87d9470a729c66dc4694aee7a7c211d98c6f37f8306d69664a61903d95644c1898fc9bd4ca7edcab68aa9b3c4c",
+    "name": "에테르넬 모자",
+    "partsType": "모자",
+    "setName": "에테르넬 세트"
+}, {
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Mitras_Rage_Warrior.webp",
+    "name": "미트라의 분노",
+    "partsType": "엠블렘",
+    "setName": "칠흑의 보스 세트"
+}], [{
+    "imgSrc": "https://w.namu.la/s/c57c7cdcfd3a4cabb3a11757ae83ab84d201abb0c99af58af8bb768038b2328ab31d5f6fdf041e0e00fcb7c8d4dc93795a0dfa373c660c55d254fe72f5f7feeab80ea32d05b296779879c470eba32255211ae2bca30b46437b3e0a0dfeede5a3",
+    "name": "여명의 가디언 엔젤 링",
+    "partsType": "반지",
+    "setName": "여명의 보스 세트",
+    "isOnlyOneEquipped": true
+}, {
+    "imgSrc": "https://w.namu.la/s/f7e9e294f4a09d107f448efb36243c6e7649dc6b4702ee58888e1b81f92f502e5ee43a73753282f290ad592eeb9afa2d8eab73db988e439aa236bc8245c9dcee7e491c08afd21a7b95477fa61d60b6baa8f3c2207ab6cbff96b5c56fc5626ea5",
+    "name": "데이브레이크 펜던트",
+    "partsType": "펜던트",
+    "setName": "여명의 보스 세트",
+    "isOnlyOneEquipped": true
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Berserked.webp",
+    "name": "루즈 컨트롤 머신 마크",
+    "partsType": "얼굴장식",
+    "setName": "칠흑의 보스 세트"
+}, {
+}, {
+    "imgSrc": "/images/sevenDays/Eqp_Seven_Days_Badge.webp",
+    "name": "칠요의 뱃지",
+    "partsType": "뱃지",
+    "setName": "칠요 세트"
+}], [{
+    "imgSrc": "/images/meister/Eqp_Meister_Ring.webp",
+    "name": "마이스터링",
+    "partsType": "반지",
+    "setName": "마이스터 세트",
+    "isOnlyOneEquipped": true
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Source_of_Suffering.webp",
+    "name": "고통의 근원",
+    "partsType": "펜던트",
+    "setName": "칠흑의 보스 세트",
+    "isOnlyOneEquipped": true
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Magic_Eyepatch.webp",
+    "name": "마력이 깃든 안대",
+    "partsType": "눈장식",
+    "setName": "칠흑의 보스 세트"
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Commanding_Force_Earring.webp",
+    "name": "커맨더 포스 이어링",
+    "partsType": "귀고리",
+    "setName": "칠흑의 보스 세트"
+}, {
+    "imgSrc": "/images/sevenDays/Eqp_Seven_Day_Monster_Parker.webp",
+    "name": "칠요의 몬스터파커",
+    "partsType": "훈장",
+    "setName": "칠요 세트"
+}], [{
+    "imgSrc": "/images/noset/Eqp_Cygnus_Kohinoor_Ring.webp",
+    "name": "세트효과가 없는 반지",
+    "partsType": "반지"
+}, {
+    "imgSrc": "/images/eternal/Eqp_Genesis_Axe.webp",
+    "name": "제네시스 무기",
+    "partsType": "무기",
+    "setName": "에테르넬 세트",
+    "isLuckyItem": true,
+    "luckyItemPriority": -3
+}, {
+    "imgSrc": "https://w.namu.la/s/ec407c44c5231f3c61afad7a667a33324e5ac194b8270710845d5ef3191371e45f496008789afe048adf827d8c5048e992c79feba5961aac52f9952fbdc70f8898268a79d604bf26607c1ee0ff87723a42b227dc79781e6bb52d7c865129976a",
+    "name": "에테르넬 상의",
+    "partsType": "상의",
+    "setName": "에테르넬 세트"
+}, {
+    "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Shoulder.webp",
+    "name": "아케인셰이드 숄더",
+    "partsType": "어깨장식",
+    "setName": "아케인셰이드 세트"
+}, {
+    "imgSrc": "/images/noset/Eqp_Ruin_Force_Shield.webp",
+    "name": "세트효과가 없는 보조무기",
+    "partsType": "보조무기"
+}], [{
+    "imgSrc": "/images/darkBoss/Eqp_Cursed_Red_Spellbook.webp",
+    "name": "저주받은 마도서",
+    "partsType": "포켓 아이템",
+    "setName": "칠흑의 보스 세트"
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Dreamy_Belt.webp",
+    "name": "몽환의 벨트",
+    "partsType": "벨트",
+    "setName": "칠흑의 보스 세트"
+}, {
+    "imgSrc": "https://w.namu.la/s/edaff125e4472f99675506e38b624d0c3d0f09b22c998d1128eac64e13fdf27f72f30ca2a4f7c566b9bc15317229129586f9e35033077369f7c23119c2b3dbcbe9eb77bc7fa636d13674f096417f6389afe5e2deb5738a77db3812abf46f4e0a",
+    "name": "에테르넬 팬츠",
+    "partsType": "하의",
+    "setName": "에테르넬 세트"
+}, {
+    "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Gloves.webp",
+    "name": "아케인셰이드 글러브",
+    "partsType": "장갑",
+    "setName": "아케인셰이드 세트"
+}, {
+    "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Cape.webp",
+    "name": "아케인셰이드 케이프",
+    "partsType": "망토",
+    "setName": "아케인셰이드 세트"
+}], [{
+}, {
+}, {
+    "imgSrc": "/images/arcaneShade/Eqp_Arcane_Umbra_Knight_Shoes.webp",
+    "name": "아케인셰이드 슈즈",
+    "partsType": "신발",
+    "setName": "아케인셰이드 세트"
+}, {
+    "imgSrc": "/images/noset/Eqp_Damienroid.webp",
+    "name": "세트효과가 없는 안드로이드",
+    "partsType": "안드로이드"
+}, {
+    "imgSrc": "/images/darkBoss/Eqp_Black_Heart.webp",
+    "name": "블랙 하트",
+    "partsType": "기계심장",
+    "setName": "칠흑의 보스 세트"
+}]]

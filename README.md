@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # 세트옵션 맞춰보는 사이트
 
 ## https://darkpppet.github.io/set-option/

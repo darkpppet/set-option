@@ -1,46 +1,22 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 세트옵션 맞춰보는 사이트
 
-## Available Scripts
+## https://darkpppet.github.io/set-option/
 
-In the project directory, you can run:
+* React 17.0.2 (with Typescript 4.6.3)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 현재 알려진 정보
+- 이 페이지는 크롬에 최적화되어있습니다.
+- 버전이 낮은 브라우저에서 접속 할 경우, 정상적으로 실행되지 않을 수 도 있습니다.
+- 모바일 최적화는 아직 
+- 영웅/무공/소공/도사의 장갑의 럭키아이템 우선도가 정확하지 않습니다.(현재 최하로 설정됨)(정보를 아시는 분은 제보 부탁합니다)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 추가 예정
+- 적용중인 세트옵션 요약 및 총합 창
+- 아이템 위에 마우스를 올리면 정보 알 수 있게
+- 여명의 가디언 엔젤 링 / 가디언 엔젤 링 간 교체 바로 가능하도록

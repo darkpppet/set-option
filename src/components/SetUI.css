@@ -9,6 +9,11 @@
     text-align: left;
 }
 
+.set-name {
+    margin: 5px;
+    text-align: center;
+}
+
 .set-container p {
     margin: 0px;
 }
@@ -17,13 +22,14 @@
     margin: 10px;
 }
 
-.set-name {
-    margin: 5px;
-    text-align: center;
+.set-parts {
+    display: flex;
+    justify-content: space-between;
 }
 
 .parts-type {
     float: right;
+    height: auto;
 }
 
 .how-much-set-effect {

@@ -27,10 +27,12 @@ export default function SetUI(props: {
                         }
                         key={indexJ}
                     >
-                        {/* 아이템명 */}
-                        <span>{setItem.name}</span>
-                        {/* 부위명 */}
-                        <span className="parts-type">({setItem.partsType})</span>
+                        <p className="set-parts">
+                            {/* 아이템명 */}
+                            <span>{setItem.name}</span>
+                            {/* 부위명 */}
+                            <span>({setItem.partsType})</span>
+                        </p>
                     </p>
                 ))}
                 </div>

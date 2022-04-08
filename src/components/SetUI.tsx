@@ -30,12 +30,12 @@ export default function SetUI(props: {
                 <div className="set-inner-container">
                 {props.setData.setItems.map((setItem, indexJ) => ( //세트옵션의 아이템들에 대해
                     <p
-                        className={props.setData.itemList.map(item => item.name).includes(setItem.name)
+                        className={"set-parts " + (props.setData.itemList.map(item => item.name).includes(setItem.name)
                             ? setItem.isLuckyItem
                             ? "lucky-aplied-set" //럭키아이템일 경우
                             : "aplied-set" //장착중일 경우
                             : "not-aplied-set" //장착중이 아닐 경우
-                        }
+                        )}
                         key={indexJ}
                     >
                         {/* 아이템명 */}

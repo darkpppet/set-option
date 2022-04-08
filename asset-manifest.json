@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/set-option/static/css/main.fd1f00ad.css",
+    "main.js": "/set-option/static/js/main.ea60c29d.js",
+    "index.html": "/set-option/index.html",
+    "main.fd1f00ad.css.map": "/set-option/static/css/main.fd1f00ad.css.map",
+    "main.ea60c29d.js.map": "/set-option/static/js/main.ea60c29d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1f00ad.css",
+    "static/js/main.ea60c29d.js"
+  ]
+}

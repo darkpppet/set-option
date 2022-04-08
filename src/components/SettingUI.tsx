@@ -38,8 +38,8 @@ export default function SettingUI(props: {
         isSelected(itemData)
         || ((itemData.isOnlyOneEquipped ? true : false) && props.itemsData.flat().some(x => 
             x?.name === itemData.name
-            || (itemData.name === "여명의 가디언 엔젤 링" && x?.name ==="가디언 엔젤 링")
-            || (itemData.name === "가디언 엔젤 링" && x?.name ==="여명의 가디언 엔젤 링")
+            || ((itemData.name === "여명의 가디언 엔젤 링" && x?.name ==="가디언 엔젤 링") && !isSelected(itemData))
+            || ((itemData.name === "가디언 엔젤 링" && x?.name ==="여명의 가디언 엔젤 링") && !isSelected(itemData))
         ))
     );
 

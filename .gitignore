@@ -1,8 +1,5 @@
 /build
 /node_modules
-*.test.tsx
-/src/reportWebVitals.ts
-/src/setupTests.ts
 package-lock.json
 package.json
 tsconfig.json

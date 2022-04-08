@@ -5,7 +5,7 @@
             "올스탯": 10,
             "최대 HP": 250,
             "공격력 / 마력": 10,
-            "보스 몬스터 공격 시 데미지": 10
+            "$보스 몬스터 공격 시 데미지": 10
         },
         "3": {
             "올스탯": 10,
@@ -17,27 +17,27 @@
             "최대 HP": 250,
             "공격력 / 마력": 10,
             "방어력": 100,
-            "몬스터 방어율 무시": 10
+            "$몬스터 방어율 무시": 10
         }
     },
     "items": [{
-        "imgSrc": "https://w.namu.la/s/c69a22714775265fea199863f5f8189349368ab9c69cc0d92ffafa26f5103f0f880646fb6d2e3bb07469533a019f03d117c0fe2bbc4634e83eb556d1b05353c3cf9e911564255b6b78fd8688c3e4df81a76cccf1f6e10d74718ed8e03b13134d",
+        "imgSrc": "./images/dawnBoss/트와일라이트 마크.png",
         "name": "트와일라이트 마크",
         "partsType": "얼굴장식",
         "setName": "여명의 보스 세트"
     }, {
-        "imgSrc": "https://w.namu.la/s/11356a39466bb6d44535c6f4aa2387f6cfc31bb83c71850a6383fc835af04a6b6e5b396763dea16918e5d387156f60798f1e07f259f3f94b44cd881d2cb43462a63220a551245b2cc78c4bc48506f0a28da4916cd08c8573aee0da8159a680f0",
+        "imgSrc": "./images/dawnBoss/에스텔라 이어링.png",
         "name": "에스텔라 이어링",
         "partsType": "귀고리",
         "setName": "여명의 보스 세트"
     }, {
-        "imgSrc": "https://w.namu.la/s/c57c7cdcfd3a4cabb3a11757ae83ab84d201abb0c99af58af8bb768038b2328ab31d5f6fdf041e0e00fcb7c8d4dc93795a0dfa373c660c55d254fe72f5f7feeab80ea32d05b296779879c470eba32255211ae2bca30b46437b3e0a0dfeede5a3",
+        "imgSrc": "./images/dawnBoss/Eqp_Guardian_Angel_Ring.webp",
         "name": "여명의 가디언 엔젤 링",
         "partsType": "반지",
         "setName": "여명의 보스 세트",
         "isOnlyOneEquipped": true
     }, {
-        "imgSrc": "https://w.namu.la/s/f7e9e294f4a09d107f448efb36243c6e7649dc6b4702ee58888e1b81f92f502e5ee43a73753282f290ad592eeb9afa2d8eab73db988e439aa236bc8245c9dcee7e491c08afd21a7b95477fa61d60b6baa8f3c2207ab6cbff96b5c56fc5626ea5",
+        "imgSrc": "./images/dawnBoss/데이브레이크 펜던트.png",
         "name": "데이브레이크 펜던트",
         "partsType": "펜던트",
         "setName": "여명의 보스 세트",

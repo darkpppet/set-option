@@ -2,7 +2,7 @@
 
 ## https://darkpppet.github.io/set-option/
 
-* React 17.0.2 (with Typescript 4.6.3)
+* React 18.0.0 (with Typescript 4.6.3)
 
 ---
 

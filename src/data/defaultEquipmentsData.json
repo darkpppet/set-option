@@ -83,10 +83,10 @@
     "partsType": "상의",
     "setName": "에테르넬 세트"
 }, {
-    "imgSrc": "./images/eternal/에테르넬 나이트숄더.png",
-    "name": "에테르넬 숄더",
+    "imgSrc": "./images/arcaneShade/Eqp_Arcane_Umbra_Knight_Shoulder.webp",
+    "name": "아케인셰이드 숄더",
     "partsType": "어깨장식",
-    "setName": "에테르넬 세트"
+    "setName": "아케인셰이드 세트"
 }, {
     "imgSrc": "./images/noset/Eqp_Ruin_Force_Shield.webp",
     "name": "세트효과가 없는 보조무기",

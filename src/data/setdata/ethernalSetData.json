@@ -16,6 +16,10 @@
             "$최대 HP / 최대 MP": 15,
             "공격력 / 마력": 40,
             "$보스 몬스터 공격 시 데미지": 10
+        },
+        "5": {
+            "공격력 / 마력": 40,
+            "$몬스터 방어율 무시": 20
         }
     },
     "items": [{
@@ -32,6 +36,11 @@
         "imgSrc": "./images/eternal/에테르넬 나이트팬츠.png",
         "name": "에테르넬 팬츠",
         "partsType": "하의",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트숄더.png",
+        "name": "에테르넬 숄더",
+        "partsType": "어깨장식",
         "setName": "에테르넬 세트"
     }, {
         "imgSrc": "./images/eternal/Eqp_Genesis_Axe.webp",

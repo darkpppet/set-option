@@ -6,7 +6,7 @@
 import { useState } from 'react'
 import { ItemData, isItemData } from './assets/Parts'
 import checkSet, { NowSetData } from './assets/checkSet';
-import equipmentsObj from './data/equipmentsData.json';
+import equipmentsObj from './data/defaultEquipmentsData.json';
 import Equipments from './components/Equipments'
 import SetResult from './components/SetResult'
 import SummaryResult from './components/SummaryResult'

@@ -31,6 +31,9 @@ export default function getColor(itemData: ItemData): string {
             case "네크로 세트":
                 return 'MidnightBlue';
 
+            case "광휘의 보스 세트":
+                return 'Purple';
+
             case "칠흑의 보스 세트":
                 return 'DarkRed';
 

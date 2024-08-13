@@ -10,6 +10,7 @@ import rootAbyssSetDataObj from '../data/setdata/rootAbyssSetData.json';
 import empressSetDataObj from '../data/setdata/empressSetData.json';
 import royalVonLeonSetDataObj from '../data/setdata/royalVonLeonSetData.json';
 import necroSetDataObj from '../data/setdata/necroSetData.json';
+import radianceBossSetDataObj from '../data/setdata/radianceBossSetData.json';
 import darkBossSetDataObj from '../data/setdata/darkBossSetData.json';
 import dawnBossSetDataObj from '../data/setdata/dawnBossSetData.json';
 import bossAccessorySetDataObj from '../data/setdata/bossAccessorySetData.json';
@@ -33,6 +34,7 @@ export const rootAbyssSetData: SetData = rootAbyssSetDataObj as SetData; //루�
 export const empressSetData: SetData = empressSetDataObj as SetData; //여제 세트
 export const royalVonLeonSetData: SetData = royalVonLeonSetDataObj as SetData; //로얄 반 레온 세트
 export const necroSetData: SetData = necroSetDataObj as SetData; //네크로 세트; 미사용
+export const radianceBossSetData: SetData = radianceBossSetDataObj as SetData; //광휘의 보스 세트
 export const darkBossSetData: SetData = darkBossSetDataObj as SetData; //칠흑의 보스 세트
 export const dawnBossSetData: SetData = dawnBossSetDataObj as SetData; //여명의 보스 세트
 export const bossAccessorySetData: SetData = bossAccessorySetDataObj as SetData; //보스 장신구 세트
@@ -52,7 +54,7 @@ export const nosetItemsArray: ItemData[] = nosetItmesArrayObj as ItemData[]; //�
 export const itemsData: readonly ItemData[] = [
     ...eternalSetData.items, ...arcaneShadeSetData.items, ...absolabsSetData.items, ...rootAbyssSetData.items,
     ...empressSetData.items, ...royalVonLeonSetData.items,
-    ...darkBossSetData.items, ...dawnBossSetData.items, ...bossAccessorySetData.items,
+    ...radianceBossSetData.items, ...darkBossSetData.items, ...dawnBossSetData.items, ...bossAccessorySetData.items,
     ...kritiasSetData.items, ...meisterSetData.items,
     ...sevenDaysSetData.items, ...pensalirSetData.items, ...muspellSetData.items,
     ...mapleTreasureSetData.items, ...mapleBlackSetData.items,
@@ -63,7 +65,7 @@ export const itemsData: readonly ItemData[] = [
 export const setsData: readonly SetData[] = [
     eternalSetData, arcaneShadeSetData, absolabsSetData, rootAbyssSetData,
     empressSetData, royalVonLeonSetData,
-    darkBossSetData, dawnBossSetData, bossAccessorySetData,
+    radianceBossSetData, darkBossSetData, dawnBossSetData, bossAccessorySetData,
     kritiasSetData, meisterSetData,
     sevenDaysSetData, pensalirSetData, muspellSetData,
     mapleTreasureSetData, mapleBlackSetData,

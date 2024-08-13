@@ -1,0 +1,12 @@
+{
+  "name": "광휘의 보스 세트",
+  "option": {
+  },
+  "items": [{
+    "imgSrc": "./images/radianceBoss/근원의 속삭임.png",
+    "name": "근원의 속삭임",
+    "partsType": "반지",
+    "setName": "광휘의 보스 세트",
+    "isOnlyOneEquipped": true
+  }]
+}

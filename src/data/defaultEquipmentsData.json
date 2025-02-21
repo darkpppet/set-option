@@ -23,10 +23,10 @@
     "setName": "칠흑의 보스 세트",
     "isOnlyOneEquipped": true
 }, {
-    "imgSrc": "./images/dawnBoss/데이브레이크 펜던트.png",
-    "name": "데이브레이크 펜던트",
+    "imgSrc": "./images/darkBoss/Eqp_Source_of_Suffering.webp",
+    "name": "고통의 근원",
     "partsType": "펜던트",
-    "setName": "여명의 보스 세트",
+    "setName": "칠흑의 보스 세트",
     "isOnlyOneEquipped": true
 }, {
     "imgSrc": "./images/darkBoss/Eqp_Berserked.webp",
@@ -46,10 +46,10 @@
     "setName": "여명의 보스 세트",
     "isOnlyOneEquipped": true
 }, {
-    "imgSrc": "./images/darkBoss/Eqp_Source_of_Suffering.webp",
-    "name": "고통의 근원",
+    "imgSrc": "./images/radianceBoss/죽음의 맹세.png",
+    "name": "죽음의 맹세",
     "partsType": "펜던트",
-    "setName": "칠흑의 보스 세트",
+    "setName": "광휘의 보스 세트",
     "isOnlyOneEquipped": true
 }, {
     "imgSrc": "./images/darkBoss/Eqp_Magic_Eyepatch.webp",

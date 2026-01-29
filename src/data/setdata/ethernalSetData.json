@@ -1,0 +1,82 @@
+{
+    "name": "에테르넬 세트",
+    "option": {
+        "2": {
+            "최대 HP / 최대 MP": 2500,
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 10
+        },
+        "3": {
+            "올스탯": 50,
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 10,
+            "방어력": 600
+        },
+        "4": {
+            "$최대 HP / 최대 MP": 15,
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 10
+        },
+        "5": {
+            "공격력 / 마력": 40,
+            "$몬스터 방어율 무시": 20
+        },
+        "6": {
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 15
+        },
+        "7": {
+            "최대 HP / 최대 MP": 2500,
+            "올스탯": 50,
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 15
+        },
+        "8": {
+            "공격력 / 마력": 40,
+            "$보스 몬스터 공격 시 데미지": 15
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/eternal/에테르넬 나이트헬름.png",
+        "name": "에테르넬 모자",
+        "partsType": "모자",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트아머.png",
+        "name": "에테르넬 상의",
+        "partsType": "상의",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트팬츠.png",
+        "name": "에테르넬 팬츠",
+        "partsType": "하의",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트숄더.png",
+        "name": "에테르넬 숄더",
+        "partsType": "어깨장식",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트글러브.png",
+        "name": "에테르넬 글러브",
+        "partsType": "장갑",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트슈즈.png",
+        "name": "에테르넬 슈즈",
+        "partsType": "신발",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/에테르넬 나이트케이프.png",
+        "name": "에테르넬 케이프",
+        "partsType": "망토",
+        "setName": "에테르넬 세트"
+    }, {
+        "imgSrc": "./images/eternal/Eqp_Genesis_Axe.webp",
+        "name": "제네시스 무기",
+        "partsType": "무기",
+        "setName": "에테르넬 세트",
+        "isLuckyItem": true,
+        "luckyItemPriority": -3
+    }]
+}

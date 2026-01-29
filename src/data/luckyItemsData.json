@@ -1,0 +1,38 @@
+[{
+    "imgSrc": "./images/luckyItems/Eqp_Vellums_Helm.webp",
+    "name": "카오스 루타비스 모자",
+    "partsType": "모자",
+    "isLuckyItem": true,
+    "luckyItemPriority": -1
+}, {
+    "imgSrc": "./images/noset/Eqp_Heros_Gloves.webp",
+    "name": "영웅/무공/소공/도사의 장갑",
+    "partsType": "장갑",
+    "isLuckyItem": true,
+    "luckyItemPriority": -6
+}, {
+    "imgSrc": "./images/luckyItems/Eqp_Scarlet_War_Cleaver.webp",
+    "name": "스칼렛 무기",
+    "partsType": "무기",
+    "isLuckyItem": true,
+    "luckyItemPriority": -3
+}, {
+    "imgSrc": "./images/luckyItems/Eqp_Scarlet_Ring.webp",
+    "name": "스칼렛 링",
+    "partsType": "반지",
+    "isLuckyItem": true,
+    "luckyItemPriority": -4,
+    "isOnlyOneEquipped": true
+}, {
+    "imgSrc": "./images/luckyItems/Eqp_Scarlet_Earring.webp",
+    "name": "스칼렛 이어링",
+    "partsType": "귀고리",
+    "isLuckyItem": true,
+    "luckyItemPriority": -2
+}, {
+    "imgSrc": "./images/luckyItems/Eqp_Scarlet_Shoulder.webp",
+    "name": "스칼렛 숄더",
+    "partsType": "어깨장식",
+    "isLuckyItem": true,
+    "luckyItemPriority": -5
+}]

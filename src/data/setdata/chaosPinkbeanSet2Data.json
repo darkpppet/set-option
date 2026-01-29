@@ -1,0 +1,20 @@
+{
+    "name": "카오스 핑크빈 세트 II",
+    "option": {
+        "2": {
+            "공격력 / 마력": 10,
+            "방어력": 300
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/chaosPinkbean2/Eqp_Chaos_Pink_Bean_Mark.webp",
+        "name": "카오스 핑크빈 마크",
+        "partsType": "눈장식",
+        "setName": "카오스 핑크빈 세트 II"
+    }, {
+        "imgSrc": "./images/chaosPinkbean2/Eqp_Timeless_Bardiche.webp",
+        "name": "러브리스 무기",
+        "partsType": "무기",
+        "setName": "카오스 핑크빈 세트 II"
+    }]
+}

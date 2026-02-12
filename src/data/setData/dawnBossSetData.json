@@ -1,0 +1,46 @@
+{
+    "name": "여명의 보스 세트",
+    "effects": {
+        "2": {
+            "올스탯": 10,
+            "최대 HP": 250,
+            "공격력 / 마력": 10,
+            "$보스 몬스터 데미지": 10
+        },
+        "3": {
+            "올스탯": 10,
+            "최대 HP": 250,
+            "공격력 / 마력": 10
+        },
+        "4": {
+            "올스탯": 10,
+            "최대 HP": 250,
+            "공격력 / 마력": 10,
+            "방어력": 100,
+            "$몬스터 방어율 무시": 10
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/dawnBoss/트와일라이트 마크.png",
+        "name": "트와일라이트 마크",
+        "partsType": "얼굴장식",
+        "setName": "여명의 보스 세트"
+    }, {
+        "imgSrc": "./images/dawnBoss/에스텔라 이어링.png",
+        "name": "에스텔라 이어링",
+        "partsType": "귀고리",
+        "setName": "여명의 보스 세트"
+    }, {
+        "imgSrc": "./images/dawnBoss/Eqp_Guardian_Angel_Ring.webp",
+        "name": "여명의 가디언 엔젤 링",
+        "partsType": "반지",
+        "setName": "여명의 보스 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "./images/dawnBoss/데이브레이크 펜던트.png",
+        "name": "데이브레이크 펜던트",
+        "partsType": "펜던트",
+        "setName": "여명의 보스 세트",
+        "isOnlyOneEquipped": true
+    }]
+}

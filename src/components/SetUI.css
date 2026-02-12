@@ -33,17 +33,17 @@
 }
 
 .how-much-set-effect {
-    margin: 3px 0px;
+    margin: 3px 0;
 }
 
-.lucky-aplied-set {
+.lucky-applied-set {
     color: Orange;
 }
 
-.aplied-set {
+.applied-set {
     color: White;
 }
 
-.not-aplied-set {
+.not-applied-set {
     color: Gray;
 }

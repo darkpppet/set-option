@@ -1,0 +1,64 @@
+{
+    "name": "여제 세트",
+    "effects": {
+        "2": {
+            "방어력": 300
+        },
+        "3": {
+            "$최대 HP / 최대 MP": 15
+        },
+        "4": {
+            "공격력 / 마력": 15,
+            "상태 이상 내성": 10
+        },
+        "5": {
+            "올스탯": 20,
+            "^모든 스킬 레벨: +2(5차 스킬 제외, 스킬의 마스터 레벨까지만 증가)": 2
+        },
+        "6": {
+            "공격력 / 마력": 30,
+            "$보스 몬스터 데미지": 30
+        },
+        "7": {
+            "공격력 / 마력": 10,
+            "$최대 HP / 최대 MP": 15
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Helm.webp",
+        "name": "여제 모자",
+        "partsType": "모자",
+        "setName": "여제 세트"
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Mail.webp",
+        "name": "여제 한벌옷",
+        "partsType": "한벌옷",
+        "setName": "여제 세트",
+        "isOverall": true
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Boots.webp",
+        "name": "여제 신발",
+        "partsType": "신발",
+        "setName": "여제 세트"
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Bracers.webp",
+        "name": "여제 장갑",
+        "partsType": "장갑",
+        "setName": "여제 세트"
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Cape.webp",
+        "name": "여제 케이프",
+        "partsType": "망토",
+        "setName": "여제 세트"
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Battle_Shoulder.webp",
+        "name": "여제 숄더",
+        "partsType": "어깨장식",
+        "setName": "여제 세트"
+    }, {
+        "imgSrc": "./images/empress/Eqp_Lionheart_Champion_Axe.webp",
+        "name": "여제 무기",
+        "partsType": "무기",
+        "setName": "여제 세트"
+    }]
+}

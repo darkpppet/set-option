@@ -1,72 +1,98 @@
-/*
- * Data.ts
- * json파일들에 있는 데이터들 가공해서 export하는 모듈
- */
+import eternalSetDataObj from '../data/setData/ethernalSetData.json';
+import arcaneShadeSetDataObj from '../data/setData/arcaneShadeSetData.json';
+import absolabsSetDataObj from '../data/setData/absolabsSetData.json';
+import rootAbyssSetDataObj from '../data/setData/rootAbyssSetData.json';
+import empressSetDataObj from '../data/setData/empressSetData.json';
+import royalVonLeonSetDataObj from '../data/setData/royalVonLeonSetData.json';
+import necroSetDataObj from '../data/setData/necroSetData.json';
+import radianceBossSetDataObj from '../data/setData/radianceBossSetData.json';
+import darkBossSetDataObj from '../data/setData/darkBossSetData.json';
+import dawnBossSetDataObj from '../data/setData/dawnBossSetData.json';
+import bossAccessorySetDataObj from '../data/setData/bossAccessorySetData.json';
+import kritiasSetDataObj from '../data/setData/kritiasSetData.json';
+import meisterSetDataObj from '../data/setData/meisterSetData.json';
+import chaosPinkbeanSet2DataObj from '../data/setData/chaosPinkbeanSet2Data.json';
+import sevenDaysSetDataObj from '../data/setData/sevenDaysSetData.json';
+import pensalirSetDataObj from '../data/setData/pensalirSetData.json';
+import muspellSetDataObj from '../data/setData/muspellSetData.json';
+import mapleTreasureSetDataObj from '../data/setData/mapleTreasureSetData.json';
+import mapleBlackSetDataObj from '../data/setData/mapleBlackSetData.json';
+import blackSetDataObj from '../data/setData/blackSetData.json';
+import challengerSetDataObj from '../data/setData/challengerSetData.json';
+import luckyItemsObj from '../data/itemsData/luckyItemsData.json';
+import noSetItemsObj from '../data/itemsData/noSetItemsData.json';
+import {unusedSets} from '../assets/config.json';
+import {type ItemData, PARTS_TYPES, type PartsType} from "../types/Item.ts";
+import {SET_NAMES, type SetName} from '../types/Set.ts';
+import type {SetData} from '../types/SetEffects.ts';
 
-import eternalSetDataObj from '../data/setdata/ethernalSetData.json';
-import arcanceShadeSetDataObj from '../data/setdata/arcaneShadeSetData.json';
-import absolabsSetDataObj from '../data/setdata/absolabsSetData.json';
-import rootAbyssSetDataObj from '../data/setdata/rootAbyssSetData.json';
-import empressSetDataObj from '../data/setdata/empressSetData.json';
-import royalVonLeonSetDataObj from '../data/setdata/royalVonLeonSetData.json';
-import necroSetDataObj from '../data/setdata/necroSetData.json';
-import radianceBossSetDataObj from '../data/setdata/radianceBossSetData.json';
-import darkBossSetDataObj from '../data/setdata/darkBossSetData.json';
-import dawnBossSetDataObj from '../data/setdata/dawnBossSetData.json';
-import bossAccessorySetDataObj from '../data/setdata/bossAccessorySetData.json';
-import kritiasSetDataObj from '../data/setdata/kritiasSetData.json';
-import meisterSetDataObj from '../data/setdata/meisterSetData.json';
-import chaosPinkbeanSet2DataObj from '../data/setdata/chaosPinkbeanSet2Data.json';
-import sevenDaysSetDataObj from '../data/setdata/sevenDaysSetData.json';
-import pensalirSetDataObj from '../data/setdata/pensalirSetData.json';
-import muspellSetDataObj from '../data/setdata/muspellSetData.json';
-import mapleTreasureSetDataObj from '../data/setdata/mapleTreasureSetData.json';
-import mapleBlackSetDataObj from '../data/setdata/mapleBlackSetData.json';
-import blackSetDataObj from '../data/setdata/blackSetData.json';
-import luckyItemsArrayObj from '../data/luckyItemsData.json';
-import nosetItmesArrayObj from '../data/nosetItemsData.json';
-import type {ItemData, SetData} from './Parts';
+export const SET_NAME_TO_SET_DATA: Record<SetName, SetData> = {
+    '에테르넬 세트': eternalSetDataObj as SetData,
+    '아케인셰이드 세트': arcaneShadeSetDataObj as SetData,
+    '앱솔랩스 세트': absolabsSetDataObj as SetData,
+    '루타비스 세트': rootAbyssSetDataObj as SetData,
+    '여제 세트': empressSetDataObj as SetData,
+    '로얄 반 레온 세트': royalVonLeonSetDataObj as SetData,
+    '네크로 세트': necroSetDataObj as SetData,
+    '광휘의 보스 세트': radianceBossSetDataObj as SetData,
+    '칠흑의 보스 세트': darkBossSetDataObj as SetData,
+    '여명의 보스 세트': dawnBossSetDataObj as SetData,
+    '보스 장신구 세트': bossAccessorySetDataObj as SetData,
+    '크리티아스 세트': kritiasSetDataObj as SetData,
+    '마이스터 세트': meisterSetDataObj as SetData,
+    '카오스 핑크빈 세트 II': chaosPinkbeanSet2DataObj as SetData,
+    '8th 세트': sevenDaysSetDataObj as SetData,
+    '7th 세트': pensalirSetDataObj as SetData,
+    '칠요 세트': muspellSetDataObj as SetData,
+    '메이플 트레져 세트': mapleTreasureSetDataObj as SetData,
+    '메이플 블랙 세트': mapleBlackSetDataObj as SetData,
+    '블랙 세트': blackSetDataObj as SetData,
+    '도전자의 장비 세트': challengerSetDataObj as SetData,
+} as const;
 
-export const eternalSetData: SetData = eternalSetDataObj as SetData; //에테르넬 세트
-export const arcaneShadeSetData: SetData = arcanceShadeSetDataObj as SetData; //아케인셰이드 세트
-export const absolabsSetData: SetData = absolabsSetDataObj as SetData; //앱솔랩스 세트
-export const rootAbyssSetData: SetData = rootAbyssSetDataObj as SetData; //루타비스 세트
-export const empressSetData: SetData = empressSetDataObj as SetData; //여제 세트
-export const royalVonLeonSetData: SetData = royalVonLeonSetDataObj as SetData; //로얄 반 레온 세트
-export const necroSetData: SetData = necroSetDataObj as SetData; //네크로 세트; 미사용
-export const radianceBossSetData: SetData = radianceBossSetDataObj as SetData; //광휘의 보스 세트
-export const darkBossSetData: SetData = darkBossSetDataObj as SetData; //칠흑의 보스 세트
-export const dawnBossSetData: SetData = dawnBossSetDataObj as SetData; //여명의 보스 세트
-export const bossAccessorySetData: SetData = bossAccessorySetDataObj as SetData; //보스 장신구 세트
-export const kritiasSetData: SetData = kritiasSetDataObj as SetData; //크리티아스 세트
-export const meisterSetData: SetData = meisterSetDataObj as SetData; //마이스터 세트
-export const chaosPinkbeanSet2Data: SetData = chaosPinkbeanSet2DataObj as SetData; //카오스 핑크빈 세트 II; 미사용
-export const sevenDaysSetData: SetData = sevenDaysSetDataObj as SetData; //칠요 세트
-export const pensalirSetData: SetData = pensalirSetDataObj as SetData; //펜살리르 세트
-export const muspellSetData: SetData = muspellSetDataObj as SetData; //무스펠 세트
-export const mapleTreasureSetData: SetData = mapleTreasureSetDataObj as SetData; //메이플 트레져 세트
-export const mapleBlackSetData: SetData = mapleBlackSetDataObj as SetData; //메이플 블랙 세트
-export const blackSetData: SetData = blackSetDataObj as SetData; //블랙 세트; 미사용
-export const luckyItemsArray: ItemData[] = luckyItemsArrayObj as ItemData[]; //럭키아이템들
-export const nosetItemsArray: ItemData[] = nosetItmesArrayObj as ItemData[]; //세트 없는 아이템들
+export const luckyItems = luckyItemsObj as readonly ItemData[];
+export const noSetItems = noSetItemsObj as readonly ItemData[];
 
-//아이템들만 전부 있는 배열
-export const itemsData: readonly ItemData[] = [
-    ...eternalSetData.items, ...arcaneShadeSetData.items, ...absolabsSetData.items, ...rootAbyssSetData.items,
-    ...empressSetData.items, ...royalVonLeonSetData.items,
-    ...radianceBossSetData.items, ...darkBossSetData.items, ...dawnBossSetData.items, ...bossAccessorySetData.items,
-    ...kritiasSetData.items, ...meisterSetData.items,
-    ...sevenDaysSetData.items, ...pensalirSetData.items, ...muspellSetData.items,
-    ...mapleTreasureSetData.items, ...mapleBlackSetData.items,
-    ...luckyItemsArray, ...nosetItemsArray
-];
+// 전체 아이템들 들어있는 배열
+export const itemsData: readonly ItemData[] = (() => {
+    const data: ItemData[] = [];
+    for (const name of SET_NAMES) {
+        if (unusedSets.includes(name)) {
+            continue;
+        }
+        data.push(...SET_NAME_TO_SET_DATA[name].items);
+    }
+    data.push(...luckyItems);
+    data.push(...noSetItems);
+    return data;
+})();
 
-//세트들만 전부 있는 배열
-export const setsData: readonly SetData[] = [
-    eternalSetData, arcaneShadeSetData, absolabsSetData, rootAbyssSetData,
-    empressSetData, royalVonLeonSetData,
-    radianceBossSetData, darkBossSetData, dawnBossSetData, bossAccessorySetData,
-    kritiasSetData, meisterSetData,
-    sevenDaysSetData, pensalirSetData, muspellSetData,
-    mapleTreasureSetData, mapleBlackSetData,
-];
+//아이템들 부위별로
+export const itemsDataGroupedByPartsType: Record<PartsType, readonly ItemData[]> = (() => {
+    const data = {} as Record<PartsType, ItemData[]>;
+
+    for (const partsType of PARTS_TYPES) {
+        data[partsType] = [];
+    }
+
+    for (const itemData of itemsData) {
+        data[itemData.partsType].push(itemData);
+
+        //상의랑 한벌옷은 같이
+        if (itemData.partsType === '상의') {
+            data['한벌옷'].push(itemData);
+        }
+        if (itemData.partsType === '한벌옷') {
+            data['상의'].push(itemData);
+        }
+    }
+
+    return data;
+})();
+
+
+
+
+
+
+

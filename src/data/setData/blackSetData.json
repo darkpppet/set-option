@@ -1,0 +1,46 @@
+{
+    "name": "블랙 세트",
+    "effects": {
+        "3": {
+            "올스탯": 7,
+            "공격력 / 마력": 8
+        },
+        "4": {
+            "$최대 HP / 최대 MP": 20,
+            "공격력 / 마력": 14,
+            "$데미지": 9
+        },
+        "5": {
+            "올스탯": 8,
+            "공격력 / 마력": 20,
+            "$몬스터 방어율 무시": 30
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Cape.webp",
+        "name": "블랙 햇",
+        "partsType": "모자",
+        "setName": "블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Suit.webp",
+        "name": "블랙 슈트",
+        "partsType": "한벌옷",
+        "setName": "블랙 세트",
+        "isOverall": true
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Cape.webp",
+        "name": "블랙 케이프",
+        "partsType": "망토",
+        "setName": "블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Axe.webp",
+        "name": "블랙 무기",
+        "partsType": "무기",
+        "setName": "블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Black_Force_Shield.webp",
+        "name": "블랙 보조무기",
+        "partsType": "보조무기",
+        "setName": "블랙 세트"
+    }]
+}

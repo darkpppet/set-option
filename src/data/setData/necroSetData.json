@@ -1,0 +1,48 @@
+{
+    "name": "네크로 세트",
+    "effects": {
+        "2": {
+            "올스탯": 3,
+            "방어력": 200
+        },
+        "3": {
+            "이동속도": 5,
+            "$보스 몬스터 데미지": 5
+        },
+        "4": {
+            "올스탯": 5,
+            "방어력": 100
+        },
+        "5": {
+            "공격력 / 마력": 10,
+            "$보스 몬스터 데미지": 10
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Hat.webp",
+        "name": "네크로 햇",
+        "partsType": "모자",
+        "setName": "네크로 세트"
+    }, {
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Suit.webp",
+        "name": "네크로 슈트",
+        "partsType": "한벌옷",
+        "setName": "네크로 세트",
+        "isOverall": true
+    }, {
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Shoes.webp",
+        "name": "네크로 슈즈",
+        "partsType": "신발",
+        "setName": "네크로 세트"
+    }, {
+        "imgSrc": "./images/necro/Eqp_Necromancer_Warrior_Gloves.webp",
+        "name": "네크로 글러브",
+        "partsType": "장갑",
+        "setName": "네크로 세트"
+    }, {
+        "imgSrc": "./images/necro/Eqp_Necro_Headsplitter.webp",
+        "name": "네크로 무기",
+        "partsType": "무기",
+        "setName": "네크로 세트"
+    }]
+}

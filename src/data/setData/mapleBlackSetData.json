@@ -1,0 +1,71 @@
+{
+    "name": "메이플 블랙 세트",
+    "effects": {
+        "3": {
+            "최대 HP / 최대 MP": 500,
+            "공격력 / 마력": 3
+        },
+        "4": {
+            "올스탯": 7,
+            "공격력 / 마력": 8
+        },
+        "5": {
+            "$최대 HP / 최대 MP": 20,
+            "공격력 / 마력": 14,
+            "$데미지": 9
+        },
+        "6": {
+            "올스탯": 8,
+            "공격력 / 마력": 20,
+            "$몬스터 방어율 무시": 30
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Hat.webp",
+        "name": "10주년 블랙 햇",
+        "partsType": "모자",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Suit.webp",
+        "name": "10주년 블랙 슈트",
+        "partsType": "한벌옷",
+        "setName": "메이플 블랙 세트",
+        "isOverall": true
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Cape.webp",
+        "name": "10주년 블랙 케이프",
+        "partsType": "망토",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Gum.webp",
+        "name": "10주년 블랙 치클",
+        "partsType": "얼굴장식",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Pendant_(KMS_10th_Anniversary).webp",
+        "name": "10주년 블랙 펜던트",
+        "partsType": "펜던트",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Buckle.webp",
+        "name": "10주년 블랙 버클",
+        "partsType": "벨트",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Ring.webp",
+        "name": "10주년 블랙 메이플링",
+        "partsType": "반지",
+        "setName": "메이플 블랙 세트",
+        "isOnlyOneEquipped": true
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Onyx_Maple_Axe.webp",
+        "name": "메이플 블랙 무기",
+        "partsType": "무기",
+        "setName": "메이플 블랙 세트"
+    }, {
+        "imgSrc": "./images/mapleBlack/Eqp_Black_Force_Shield.webp",
+        "name": "메이플 블랙 보조무기",
+        "partsType": "보조무기",
+        "setName": "메이플 블랙 세트"
+    }]
+}

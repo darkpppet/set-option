@@ -24,7 +24,7 @@
 }
 
 .select-button-text p {
-    margin: 0px;
+    margin: 0;
 }
 
 .gray-layer {
@@ -40,7 +40,7 @@
 .check-mark {
     margin: auto 10px;
     position: absolute;
-    right: 0px;
+    right: 0;
     font-size: 30px;
     color: LightGreen;
     z-index: 1;

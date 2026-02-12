@@ -1,0 +1,19 @@
+{
+    "name": "칠요 세트",
+    "effects": {
+        "2": {
+            "$몬스터 방어율 무시": 10
+        }
+    },
+    "items": [{
+        "imgSrc": "./images/sevenDays/Eqp_Seven_Day_Monster_Parker.webp",
+        "name": "칠요의 몬스터파커",
+        "partsType": "훈장",
+        "setName": "칠요 세트"
+    }, {
+        "imgSrc": "./images/sevenDays/Eqp_Seven_Days_Badge.webp",
+        "name": "칠요의 뱃지",
+        "partsType": "뱃지",
+        "setName": "칠요 세트"
+    }]
+}

@@ -4,8 +4,8 @@
  */
 
 import './App.css';
-import Equipments from './components/Equipments'
-import SetResult from './components/SetResult'
+import Equipments from './components/Equipments.tsx'
+import SetResult from './components/SetResult.tsx'
 
 export default function App() {
     return (

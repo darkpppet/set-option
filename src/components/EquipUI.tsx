@@ -7,7 +7,7 @@
 import * as React from "react";
 import './EquipUI.css'
 import SelectButton from './SelectButton.tsx'
-import {itemsDataGroupedByPartsType} from '../assets/Data'
+import {itemsDataGroupedByPartsType} from '../assets/Data.ts'
 import {useEquipmentsStore} from "../store/EquipmentsStore.ts";
 import {useEquipUIStore} from "../store/EquipUIStore.ts";
 

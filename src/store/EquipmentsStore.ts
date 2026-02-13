@@ -81,7 +81,7 @@ export const getSets = (state: Equipments) => {
                     continue;
                 }
 
-                if (items.some(i => i.partsType === setItem.partsType)) {
+                if (items.some(i => i.name === setItem.name)) {
                     continue;
                 }
 
